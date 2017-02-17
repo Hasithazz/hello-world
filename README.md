@@ -1,3 +1,3 @@
 # hello-world
 learn
-learn what 
+lets learn git hub
